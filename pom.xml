@@ -11,7 +11,7 @@
     <groupId>pe.edu.upc</groupId>
     <artifactId>Connection2Connection</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>Connection2Connection</name>
     <description>Connection2Connection</description>
     <properties>
